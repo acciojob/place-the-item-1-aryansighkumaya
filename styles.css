@@ -1,2 +1,34 @@
 
 /* Your CSS Code here. */
+.sunn{
+display:flex;
+	gap:10px;
+	flex-wrap:wrap;
+	justify-content:space-between
+
+	
+}
+.entire{
+	display:flex;
+	gap:20px;
+	flex-wrap:wrap
+}
+.three,.four,.five,.six,.seven{
+	padding:10px;
+	background-color:green;
+	width:100px;
+	height:70px;
+	
+}
+.one{
+	background-color:blue;
+	width:100px;
+	height:70px;
+	padding:10px;
+}
+.two{
+	background-color:red;
+	width:100px;
+	height:70px;
+	padding:10px;
+}
